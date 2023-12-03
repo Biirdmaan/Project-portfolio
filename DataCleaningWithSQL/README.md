@@ -15,7 +15,7 @@ This project involves cleaning housing data using SQL queries. It covers various
 1. [Data Cleaning SQL Queries](DataCleaningWithSQL/Housing_data_query.sql)
 2. [Adding Excel File to Database - Jupyter Notebook](DataCleaningWithSQL/Adding_Excelfile_to_Database.ipynb)
 3. [Database File](Housingdata.db)
-4. [Excel Data Source](DataCleaningWithSQL/Nashville Housing Data for Data Cleaning.xlsx)
+4. [Excel Data Source](DataCleaningWithSQL//NashvilleHousingDataforDataCleaning.xlsx)
 
 ## Getting Started
 
