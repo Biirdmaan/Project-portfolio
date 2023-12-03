@@ -2,7 +2,7 @@
 
 ## Overview
 
-This README offers an overview of the analysis conducted on a movie dataset using a Jupyter notebook ([FindingCorrelations](FindingCorrelations.ipynb)`Finding correlations.ipynb`). The notebook delves into different facets, encompassing tasks such as handling missing data, transforming data types, and exploring correlations within the dataset.
+This README offers an overview of the analysis conducted on a movie dataset using a Jupyter notebook ([FindingCorrelations](FindingCorrelations.ipynb)). The notebook delves into different facets, encompassing tasks such as handling missing data, transforming data types, and exploring correlations within the dataset.
 
 ## Contents
 
