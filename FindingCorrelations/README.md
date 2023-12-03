@@ -2,7 +2,7 @@
 
 ## Overview
 
-This README provides an overview of the analysis performed on a movie dataset using a Jupyter notebook (`Finding correlations.ipynb`). The notebook covers various aspects, including handling missing data, transforming data types, and exploring correlations within the dataset.
+This README offers an overview of the analysis conducted on a movie dataset using a Jupyter notebook (`Finding correlations.ipynb`). The notebook delves into different facets, encompassing tasks such as handling missing data, transforming data types, and exploring correlations within the dataset.
 
 ## Contents
 
@@ -14,25 +14,25 @@ This README provides an overview of the analysis performed on a movie dataset us
 
 ## Handling Missing Data
 
-The notebook starts by identifying and handling missing data in the dataset. Two approaches are implemented: one involves using the KNN algorithm to handle missing values in the 'budget' column, while the other simply removes rows with missing data.
+The notebook initiates by identifying and addressing missing data in the dataset. Two distinct approaches are employed: one utilizes the KNN algorithm to handle missing values in the 'budget' column, while the other straightforwardly removes rows with missing data.
 
 ## Changing Datatypes in Columns
 
-Data types of specific columns ('budget' and 'gross') are changed to `int64` for better compatibility and representation.
+Data types of specific columns ('budget' and 'gross') undergo conversion to int64 for enhanced compatibility and representation.
 
 ## Overwriting Columns
 
-The 'year' column is updated by extracting the year from the 'released' column, addressing the mismatch between 'released' year and 'year'.
+The 'year' column undergoes an update by extracting the year from the 'released' column, rectifying the mismatch between 'released' year and 'year'.
 
 ## Cleansing Data
 
-Rows with problematic 'year' values (more than 4 characters) are eliminated, and duplicates are removed from the dataset.
+Rows with problematic 'year' values (more than 4 characters) get eliminated, and duplicates are expunged from the dataset.
 
 ## Exploring Correlations
 
 ### 1. Displaying Linear Correlation
 
-A scatter plot and a seaborn regplot are used to visualize the linear correlation between budget and gross earnings.
+A scatter plot and a seaborn regplot are employed to visualize the linear correlation between budget and gross earnings.
 
 ### 2. Displaying Correlation Heatmap with Numerical Data
 
@@ -40,14 +40,14 @@ Correlation heatmaps are generated for the original dataset and the one with mis
 
 ### 3. Transforming Object Data Types
 
-Object data types are transformed into numerical values to prepare for further correlation analysis.
+Object data types undergo transformation into numerical values to prepare for further correlation analysis.
 
 ### 4. Visualizing the Transformed Data in Correlation Heatmaps
 
-Correlation heatmaps are displayed after transforming object data types, providing insights into the relationships between numerical features.
+Correlation heatmaps are showcased post the transformation of object data types, offering insights into the relationships between numerical features.
 
 ## Conclusion
 
-The analysis explores various aspects of the movie dataset, from handling missing data to examining correlations. The provided visualizations aid in understanding the relationships within the dataset.
+This analysis delves into various aspects of the movie dataset, ranging from handling missing data to scrutinizing correlations. The visualizations provided aid in comprehending the relationships within the dataset.
 
-Feel free to explore the Jupyter notebook for a more detailed analysis.
+Feel free to explore the Jupyter notebook for an in-depth analysis.
