@@ -29,16 +29,16 @@ The 'year' column undergoes an update by extracting the year from the 'released'
 Rows with problematic 'year' values (more than 4 characters) get eliminated, and duplicates are expunged from the dataset.
 
 ## Exploring Correlations
-__1. Linear Correlation Visualization:__
+1. Linear Correlation Visualization:
 Utilizing scatter plots and seaborn regplot to illustrate the linear correlation between budget and gross earnings.
 
-__2. Correlation Heatmap with Numerical Data:__
+2. Correlation Heatmap with Numerical Data:
 Generating correlation heatmaps for both the original dataset and the one with missing values handled using the KNN algorithm.
 
-__3. Transformation of Object Data Types:__
+3. Transformation of Object Data Types:
 Converting object data types into numerical values to set the stage for further correlation analysis.
 
-__4. Visualization of Transformed Data in Correlation Heatmaps:__
+4. Visualization of Transformed Data in Correlation Heatmaps:
 Showcasing correlation heatmaps after the transformation of object data types, offering insights into the relationships between numerical features.
 
 ## Conclusion
