@@ -48,7 +48,7 @@ You can access the Tableau xlsx files using the following links:
 
 
 You find the final dashboard here: 
-- Dashboard
+- __Dashboard__
 
 Feel free to explore these Excel files to delve into the underlying data and code files for a comprehensive understanding of the project's various components.
 
