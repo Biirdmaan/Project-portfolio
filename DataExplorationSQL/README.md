@@ -35,16 +35,21 @@ The SQL queries in [Covid_data.sql](Covid_data.sql) perform various analyses on 
 
 [DataCleaningWithSQL/Housing_data_query.sql](Housing_data_query.sql) contains SQL queries for cleaning housing data.
 
-## Tableau Visualizations
+## Tableau Dashboard Visualizations
 
-The following Tableau projects are available:
+Four tables extracted from Covid_data.sql have been saved as Excel files to facilitate the creation of a Tableau dashboard. These tables are instrumental in crafting an insightful visualization of COVID data trends.
+
+You can access the Tableau xlsx files using the following links:
 
 1. [Tableau project 1.xlsx](Tableau%20project%201.xlsx)
 2. [Tableau project 2.xlsx](Tableau%20project%202.xlsx)
 3. [Tableau project 3.xlsx](Tableau%20project%203.xlsx)
 4. [Tableau project 4.xlsx](Tableau%20project%204.xlsx)
 
-These files contain Tableau projects for visualizing and analyzing COVID data.
 
-Feel free to explore the provided documents and code files for more details on each aspect of the project.
+You find the final dashboard here: 
+- Dashboard
+
+Feel free to explore these Excel files to delve into the underlying data and code files for a comprehensive understanding of the project's various components.
+
 
