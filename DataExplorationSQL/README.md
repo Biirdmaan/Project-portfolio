@@ -33,7 +33,7 @@ The SQL queries in [Covid_data.sql](Covid_data.sql) perform various analyses on 
 
 ### Data Cleaning SQL Queries
 
-[DataCleaningWithSQL/Housing_data_query.sql](DataCleaningWithSQL/Housing_data_query.sql) contains SQL queries for cleaning housing data.
+[DataCleaningWithSQL/Housing_data_query.sql](Housing_data_query.sql) contains SQL queries for cleaning housing data.
 
 ## Tableau Visualizations
 
