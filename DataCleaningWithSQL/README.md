@@ -23,11 +23,11 @@ To get started with this project, you'll need to follow these steps:
 
 1. Clone the repository to your local machine.
 2. Make sure you have an SQLite database set up (refer to [Database](#database)).
-3. Open and execute the SQL queries in [Data Cleaning SQL Queries](DataCleaningWithSQL/Housing_data_query.sql) on your SQLite database.
+3. Open and execute the SQL queries in [Data Cleaning SQL Queries](Housing_data_query.sql) on your SQLite database.
 
 ## Data Cleaning Steps
 
-The SQL queries in [Housing_data_query.sql](DataCleaningWithSQL/Housing_data_query.sql) perform the following tasks:
+The SQL queries in [Housing_data_query.sql](Housing_data_query.sql) perform the following tasks:
 
 - Standardizing date formats
 - Checking and filling null values in PropertyAddress
@@ -42,7 +42,7 @@ The SQL queries in [Housing_data_query.sql](DataCleaningWithSQL/Housing_data_que
 
 ## Adding Excel File to Database
 
-The Jupyter Notebook [Adding_Excelfile_to_Database.ipynb](DataCleaningWithSQL/Adding_Excelfile_to_Database.ipynb) demonstrates how to read an Excel file and add its contents to an SQLite database.
+The Jupyter Notebook [Adding_Excelfile_to_Database.ipynb](Adding_Excelfile_to_Database.ipynb) demonstrates how to read an Excel file and add its contents to an SQLite database.
 
 ## Database
 
