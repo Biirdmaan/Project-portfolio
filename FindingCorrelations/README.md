@@ -30,21 +30,21 @@ Rows with problematic 'year' values (more than 4 characters) get eliminated, and
 
 ## Exploring Correlations
 
-### 1. Displaying Linear Correlation
+1. Displaying Linear Correlation
 
-A scatter plot and a seaborn regplot are employed to visualize the linear correlation between budget and gross earnings.
+- A scatter plot and a seaborn regplot are employed to visualize the linear correlation between budget and gross earnings.
 
-### 2. Displaying Correlation Heatmap with Numerical Data
+2. Displaying Correlation Heatmap with Numerical Data
 
-Correlation heatmaps are generated for the original dataset and the one with missing values handled using the KNN algorithm.
+- Correlation heatmaps are generated for the original dataset and the one with missing values handled using the KNN algorithm.
 
-### 3. Transforming Object Data Types
+3. Transforming Object Data Types
 
-Object data types undergo transformation into numerical values to prepare for further correlation analysis.
+- Object data types undergo transformation into numerical values to prepare for further correlation analysis.
 
-### 4. Visualizing the Transformed Data in Correlation Heatmaps
+4. Visualizing the Transformed Data in Correlation Heatmaps
 
-Correlation heatmaps are showcased post the transformation of object data types, offering insights into the relationships between numerical features.
+- Correlation heatmaps are showcased post the transformation of object data types, offering insights into the relationships between numerical features.
 
 ## Conclusion
 
