@@ -1,6 +1,6 @@
 # Time Series Analysis with Stationarity Check
 
-This Jupyter notebook (`Time_series_analysis.ipynb`) focuses on time series analysis with a primary emphasis on checking stationarity. The analysis is conducted on the 'flights' dataset, and various techniques are used to assess and improve the stationarity of the time series.
+This Jupyter notebook (`Time_series_analysis.ipynb`) focuses on time series analysis with a primary emphasis on checking stationarity. The analysis is conducted on the 'flights' dataset, loaded using `sns.load_dataset('flights')`, and various techniques are used to assess and improve the stationarity of the time series.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This Jupyter notebook (`Time_series_analysis.ipynb`) focuses on time series anal
 - [SARIMAX Modeling](#sarimax-modeling)
 - [Results and Visualizations](#results-and-visualizations)
 - [Future Predictions](#future-predictions)
-- [Conclusion](#conclusion)
+- [Dataset](#dataset)
 
 ## Overview
 
@@ -58,10 +58,15 @@ SARIMAX modeling is applied to the time series with seasonal components. The pre
 
 Results from the tests and model predictions are visualized using line plots. The notebook includes comparisons between actual values and predicted values.
 
-## Conclusion
+## Future Predictions
 
-In conclusion, the time series analysis and modeling have provided valuable insights into the stationarity of the 'flights' dataset. The Augmented Dickey-Fuller and KPSS tests have been instrumental in assessing and confirming the stationarity of the time series. The ARIMA and SARIMAX models have demonstrated their effectiveness in predicting future values.
+The notebook concludes with a section on making future predictions using the trained models. It demonstrates how to forecast passenger counts for a specified period.
+
+## Dataset
+
+The analysis is conducted on the 'flights' dataset, loaded using `sns.load_dataset('flights')`. The 'flights' dataset includes information about passenger counts over time and provides valuable insights into the temporal patterns of passenger travel.
 
 Feel free to explore the notebook and adapt the code to your specific time series analysis needs!
 
 ![Stationarity](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xdblkZyg6YmmReAkZHUksw.png)
+
