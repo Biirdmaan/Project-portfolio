@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project focuses on predicting customer churn in a telecommunications company using machine learning techniques. The primary goal is to develop models that can identify customers likely to churn, enabling the company to take proactive measures to retain them.
+This project focuses on predicting customer churn in a telecommunications company using machine learning techniques. The primary goal is to develop models that can identify customers likely to churn, enabling the company to take proactive measures to retain them. Dataset: [nbi_data_set.xlsx](#nbi-data-setxlsx)
+
 
 ## Table of Contents
 
@@ -17,9 +18,6 @@ This project focuses on predicting customer churn in a telecommunications compan
 - [Evaluation](#evaluation)
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [nbi_data_set.xlsx](#nbi-data-setxlsx)
 
 ---
 
@@ -73,14 +71,6 @@ Despite various attempts to improve model performance, the project faced challen
 ## Contributing
 
 If you would like to contribute to this project, feel free to submit pull requests or open issues.
-
-## License
-
-This project is licensed under [Your License]. See the LICENSE.md file for details.
-
-## Acknowledgments
-
-Acknowledgments and credits for libraries, frameworks, or resources used in the project.
 
 ---
 
