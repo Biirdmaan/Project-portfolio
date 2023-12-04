@@ -72,46 +72,4 @@ Despite various attempts to improve model performance, the project faced challen
 
 If you would like to contribute to this project, feel free to submit pull requests or open issues.
 
----
-
-## nbi_data_set.xlsx
-
-### Overview
-
-The "nbi_data_set.xlsx" document contains additional information or data relevant to the project. Please refer to this document for specific details on the dataset, data sources, or any other supplementary information.
-
-### Contents
-
-- [Description of Data](#description-of-data)
-- [Data Exploration](#data-exploration)
-- [Data Format](#data-format)
-- [Data Statistics](#data-statistics)
-- [Usage in the Project](#usage-in-the-project)
-
-#### Description of Data
-
-Provide a brief overview of the data included in "nbi_data_set.xlsx." What type of information does it contain, and how is it related to the main project?
-
-#### Data Exploration
-
-Outline any key findings or insights obtained from exploring the data in "nbi_data_set.xlsx." This could include statistical summaries, visualizations, or patterns discovered.
-
-#### Data Format
-
-Describe the format of the data, including the types of columns and any specific formatting conventions used.
-
-#### Data Statistics
-
-Highlight important statistical measures or metrics related to the data in "nbi_data_set.xlsx." This could include counts, averages, or any other relevant statistics.
-
-#### Usage in the Project
-
-Explain how the information or data from "nbi_data_set.xlsx" is utilized in the main project. Does it impact the model, contribute to the analysis, or serve any other crucial purpose?
-
-### Conclusion
-
-Summarize the role and significance of "nbi_data_set.xlsx" in the context of the overall project.
-
----
-
 <!-- Continue with the rest of your README -->
